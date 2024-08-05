@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-project1/static/css/main.cf82d24c.css",
+    "main.js": "/react-project1/static/js/main.5947761a.js",
+    "static/js/453.f6d8d8d9.chunk.js": "/react-project1/static/js/453.f6d8d8d9.chunk.js",
+    "static/media/consultation.svg": "/react-project1/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
+    "static/media/web-dev.svg": "/react-project1/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
+    "static/media/hosting.svg": "/react-project1/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
+    "static/media/app.svg": "/react-project1/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
+    "static/media/kws.png": "/react-project1/static/media/kws.877da8110793af2c3d27.png",
+    "static/media/Web-developer.svg": "/react-project1/static/media/Web-developer.6c7276fff94ccaae45617195f0ef27ae.svg",
+    "static/media/footer.svg": "/react-project1/static/media/footer.70b54bbe52a797ce69c1.svg",
+    "static/media/web.svg": "/react-project1/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
+    "index.html": "/react-project1/index.html",
+    "static/media/hero-bg.svg": "/react-project1/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.cf82d24c.css.map": "/react-project1/static/css/main.cf82d24c.css.map",
+    "main.5947761a.js.map": "/react-project1/static/js/main.5947761a.js.map",
+    "453.f6d8d8d9.chunk.js.map": "/react-project1/static/js/453.f6d8d8d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf82d24c.css",
+    "static/js/main.5947761a.js"
+  ]
+}
